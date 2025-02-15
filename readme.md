@@ -2,6 +2,9 @@
 
 Code to go along with the paper 2401.16624.
 
+The `paltas` directory was copied from a particular version of Sebastian Wagner-Carena's code (https://github.com/swagnercarena/paltas).
+
+
 ## How to train
 
 Use `bl_bigkerunet.py`. See `bl_5e5data7.sh` for an example running on the cluster.
