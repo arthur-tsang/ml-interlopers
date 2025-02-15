@@ -1,0 +1,14 @@
+# other git repos
+paltas
+SmaAtUNet
+
+
+# emacs temporary files
+*~
+
+# other things to ignore
+oldfiles
+__pycache__
+tmp
+.ipynb_checkpoints
+multisubtest
